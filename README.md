@@ -3,9 +3,13 @@
 # Metadata
 
 Author: C. G. Becker and M. Corvellec
+
 Title: Solidification tracking of a metallic alloy
+
 Year: 2022
+
 Month: December
+
 Abstract: In this example, we identify and track the solid-liquid
 (S-L) interface in a series of x-radiography images depicting a
 nickel-based alloy undergoing solidification. This process is preceded
@@ -21,7 +25,7 @@ The image sequence was obtained by the Center for Advanced Non-Ferrous
 Structural Alloys (CANFSA) and beamline scientists of the Advanced Photon
 Source (APS) located at Argonne National Laboratory (ANL).
 
-# Context and content
+# Context and Content
 
 This repository contains an example tutorial developed for the Python
 package scikit-image. This analysis was first presented at ImageXD
@@ -31,14 +35,14 @@ version 0.20.0.
 
 The [Python file](./plot_solidification_tracking.py) is the source for
 the data analysis workflow. It is used to render the [HTML
-file]((https://scikit-image.org/docs/dev/auto_examples/applications/plot_solidification_tracking.html)
+file](https://scikit-image.org/docs/dev/auto_examples/applications/plot_solidification_tracking.html)
 featured in the above-mentioned documentation. The [Jupyter
 notebook](./plot_solidification_tracking.ipynb) is derived from this
 Python file as well.
 
-# Reference
+# References
 
-[1] Corvellec M. and Becker C. G. (2021, May 17-18)
+1. Corvellec M. and Becker C. G. (2021, May 17-18)
     "Quantifying solidification of metallic alloys with scikit-image"
     [Conference presentation]. BIDS ImageXD 2021 (Image Analysis Across
     Domains). Virtual participation.
