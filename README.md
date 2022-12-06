@@ -42,8 +42,8 @@ Python file as well.
 
 # References
 
-1. Corvellec M. and Becker C. G. (2021, May 17-18)
-    "Quantifying solidification of metallic alloys with scikit-image"
-    [Conference presentation]. BIDS ImageXD 2021 (Image Analysis Across
-    Domains). Virtual participation.
-    https://www.youtube.com/watch?v=cB1HTgmWTd8
+1. Corvellec, M. and Becker, C. G. (2021, May 17-18)
+   "Quantifying solidification of metallic alloys with scikit-image"
+   [Conference presentation].
+   BIDS ImageXD 2021 (Image Analysis Across Domains). Virtual participation.
+   https://www.youtube.com/watch?v=cB1HTgmWTd8
