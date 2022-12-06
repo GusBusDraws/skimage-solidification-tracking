@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cgusb/solidification-tracking/main)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cgusb/skimage-solidification-tracking/main)
 
 # Metadata
 
