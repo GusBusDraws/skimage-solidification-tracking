@@ -29,8 +29,8 @@ Source (APS) located at Argonne National Laboratory (ANL).
 
 This repository contains an example tutorial developed for the Python
 package scikit-image. This analysis was first presented at ImageXD
-2021 [1]. The annotated analysis routine was accepted into the
-long-form documentation of scikit-image and will be released with
+2021 [1]. The tutorial was accepted into the long-form documentation of
+scikit-image and is one of its gallery examples starting with
 version 0.20.0.
 
 The [Python file](./plot_solidification_tracking.py) is the source for
@@ -42,8 +42,8 @@ Python file as well.
 
 # References
 
-1. Corvellec M. and Becker C. G. (2021, May 17-18)
-    "Quantifying solidification of metallic alloys with scikit-image"
-    [Conference presentation]. BIDS ImageXD 2021 (Image Analysis Across
-    Domains). Virtual participation.
-    https://www.youtube.com/watch?v=cB1HTgmWTd8
+1. Corvellec, M. and Becker, C. G. (2021, May 17-18)
+   "Quantifying solidification of metallic alloys with scikit-image"
+   [Conference presentation].
+   BIDS ImageXD 2021 (Image Analysis Across Domains). Virtual participation.
+   https://www.youtube.com/watch?v=cB1HTgmWTd8
