@@ -29,8 +29,8 @@ Source (APS) located at Argonne National Laboratory (ANL).
 
 This repository contains an example tutorial developed for the Python
 package scikit-image. This analysis was first presented at ImageXD
-2021 [1]. The annotated analysis routine was accepted into the
-long-form documentation of scikit-image and will be released with
+2021 [1]. The tutorial was accepted into the long-form documentation of
+scikit-image and is one of its gallery examples starting with
 version 0.20.0.
 
 The [Python file](./plot_solidification_tracking.py) is the source for
