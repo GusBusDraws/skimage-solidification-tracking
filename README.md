@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7429464.svg)](https://doi.org/10.5281/zenodo.7429464)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cgusb/skimage-solidification-tracking/main)
 
 # Metadata
